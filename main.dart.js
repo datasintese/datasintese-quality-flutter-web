@@ -21806,9 +21806,9 @@ if(o==null){o=A.a([],s)
 n.l(0,p,o)
 p=o}else p=o
 J.f4(p,q)}return n},
-azn(){return"0.0.19"},
+azn(){return"0.0.20"},
 pu(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
-return s},
+return r},
 aqt(){var s="wss://api.datasintese.com"
 return s},
 pt(a,b,c,d,e,f,g){switch(a){case 200:b.$0()
