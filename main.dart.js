@@ -22371,10 +22371,10 @@ if(o==null){o=A.a([],s)
 n.l(0,p,o)
 p=o}else p=o
 J.fd(p,q)}return n},
-aCk(){var s="d-0.0.23"
-return"0.0.23"},
-iK(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
+aCk(){var s="d-0.0.24"
 return s},
+iK(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
+return r},
 atp(){var s="wss://api.datasintese.com"
 return s},
 iJ(a,b,c,d,e,f,g){switch(a){case 200:b.$0()
