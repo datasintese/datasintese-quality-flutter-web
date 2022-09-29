@@ -22339,9 +22339,9 @@ n.l(0,p,o)
 p=o}else p=o
 J.fc(p,q)}return n},
 aBZ(){var s="d-0.0.24"
-return"0.0.24"},
-iK(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
 return s},
+iK(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
+return r},
 at3(){var s="wss://api.datasintese.com"
 return s},
 iJ(a,b,c,d,e,f,g){switch(a){case 200:b.$0()
