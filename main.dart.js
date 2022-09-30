@@ -22340,7 +22340,7 @@ if(o==null){o=A.a([],s)
 n.l(0,p,o)
 p=o}else p=o
 J.fc(p,q)}return n},
-aBZ(){var s="d-0.0.25"
+aBZ(){var s="d-0.0.26"
 return s},
 iK(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
 return r},
@@ -41432,10 +41432,10 @@ s=A.bv(s,"(","")
 s=A.bv(s,")","")
 if(B.b.bf(s,"0"))return B.e.i(A.bZ(s,null))
 else return s}else return'"'+a+'"'},
-M8(){var s=this,r=s.b,q=s.ax,p=q+1,o=s.ay,n=s.as,m=n.length
-o=o===m
-q=o||q>=m?"":A.ayq(n[q])
-return new A.J3(p,p!==1,o,q,r)},
+M8(){var s=this,r=s.b,q=s.ax,p=s.ay,o=s.as,n=o.length
+p=p===n
+o=p||q>=n?"":A.ayq(o[q])
+return new A.J3(q+1,!1,p,o,r)},
 Fd(){var s=this.d
 return s>0&&this.Q.length!==0?s/this.Q.length:0},
 F0(){var s=this.e
@@ -41852,7 +41852,7 @@ return s}}
 A.J3.prototype={
 bU(){var s,r=this,q=t.z,p=A.z(t.N,q)
 p.l(0,"batch",r.a)
-p.l(0,"ignoreData",r.b)
+p.l(0,"ignoreData",!1)
 p.l(0,"finalize",r.c)
 p.l(0,"body",r.d)
 s=r.e
@@ -43168,7 +43168,7 @@ while(true)switch(s){case 0:s=3
 return A.U(A.uV("osascript"),$async$fX)
 case 3:l=d
 k=p.vJ(b,null)
-j=A.bv("File Picker","\\","\\\\")
+j=A.bv("","\\","\\\\")
 j=A.bv(j,'"','\\"')
 j=A.bv(j,"\n","\\\n")
 o=A.a(["-e"],t.s)
@@ -43233,7 +43233,7 @@ case 3:o=d
 n=A.aCV(o)
 m=n.vJ(b,null)
 s=4
-return A.U(A.E5(o,n.ER("File Picker",m,"",!1,!1)),$async$fX)
+return A.U(A.E5(o,n.ER("",m,"",!1,!1)),$async$fX)
 case 4:l=d
 if(l==null){q=null
 s=1
