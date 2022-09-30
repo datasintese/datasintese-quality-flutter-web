@@ -22261,7 +22261,7 @@ if(o==null){o=A.a([],s)
 n.l(0,p,o)
 p=o}else p=o
 J.fA(p,q)}return n},
-aAZ(){var s="d-0.0.26"
+aAZ(){var s="d-0.0.27"
 return s},
 iL(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
 return r},
