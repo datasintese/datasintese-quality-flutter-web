@@ -22285,12 +22285,12 @@ if(o==null){o=A.a([],s)
 n.l(0,p,o)
 p=o}else p=o
 J.fB(p,q)}return n},
-aBa(){var s="d-0.0.34"
-return"0.0.34"},
+aBa(){var s="d-0.0.35"
+return s},
 iL(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
-return s},
+return r},
 Vu(){var s="wss://api.datasintese.com",r="wss://api.datasintese.com:5577"
-return s},
+return r},
 iK(a,b,c,d,e,f,g){switch(a){case 200:b.$0()
 break
 case 400:c.$0()
