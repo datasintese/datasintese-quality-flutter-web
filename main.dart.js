@@ -22278,8 +22278,8 @@ if(o==null){o=A.a([],s)
 n.l(0,p,o)
 p=o}else p=o
 J.fB(p,q)}return n},
-aB7(){var s="d-0.0.31"
-return"0.0.31"},
+aB7(){var s="d-0.0.32"
+return"0.0.32"},
 iL(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
 return s},
 Vu(){var s="wss://api.datasintese.com",r="wss://api.datasintese.com:5577"

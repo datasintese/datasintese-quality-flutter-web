@@ -1,11 +1,11 @@
 {
-    "name": "datasintese_bot_flutter_web",
-    "short_name": "datasintese_bot_flutter_web",
+    "name": "datasintese",
+    "short_name": "ds",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Projetos Data Síntese",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
